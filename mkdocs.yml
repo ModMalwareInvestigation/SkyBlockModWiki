@@ -1,5 +1,8 @@
 site_name: SkyBlock Mod Wiki
-site_url: https://ilikeplayinggames.github.io/SkyBlockModWiki/
+site_url: https://sbmw.ca
+site_description: >
+  The SkyBlock Mod Wiki is a reference for the usage of modifications (mods for short) on Hypixel SkyBlock.
+  It is intended to introduce new users to mods and be a reference to the variety of different features and settings each mod offers.
 repo_name: ILikePlayingGames/SkyBlockModWiki
 repo_url: https://github.com/ILikePlayingGames/SkyBlockModWiki
 edit_uri: edit/main/docs
