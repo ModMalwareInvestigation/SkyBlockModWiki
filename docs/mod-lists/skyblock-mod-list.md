@@ -55,11 +55,11 @@ Fancy Warp Menu is a rewrite of SkyBlock Addons' fancy warp menu for improved pe
 - Support: https://discord.gg/QXA3y5EbNA
 
 ### Dulkir Mod
-- Download: https://github.com/inglettronald/DulkirMod
+- Download: https://github.com/inglettronald/DulkirMod/releases
 - Support: https://discord.gg/WnJwrNZQSn
 
 ### Partly Sane Skies
-- Download: https://github.com/PartlySaneStudios/partly-sane-skies/
+- Download: https://github.com/PartlySaneStudios/partly-sane-skies/releases
 - Support: https://discord.gg/v4PU3WeH7z
 
 ### Apec
