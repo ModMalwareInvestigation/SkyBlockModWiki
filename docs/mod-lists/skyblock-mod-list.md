@@ -66,6 +66,18 @@ Fancy Warp Menu is a rewrite of SkyBlock Addons' fancy warp menu for improved pe
 - Download: https://github.com/BananaFructa/Apec/releases
 - Support: https://discord.com/invite/YXrJzpY
 
+### Cowlection
+- Download: https://github.com/symt/BazaarNotifier/releases
+- Support: https://discord.gg/fU2tFPf
+
+### SkyGuide
+- Download: https://modrinth.com/mod/skyguide/versions
+- Support: https://discord.gg/XtAuqsJWby
+
+### BazaarNotifier
+- Download: https://github.com/symt/BazaarNotifier/releases
+- Support: https://discord.gg/wjpJSVSwvD
+
 ## ChatTriggers Modules
 These require [ChatTriggers](https://www.chattriggers.com) to be installed first.
 ChatTriggers is a mod loader that allows mods to be written in JavaScript instead of Java.
