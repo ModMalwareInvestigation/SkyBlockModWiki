@@ -37,3 +37,6 @@ nav:
   - Mod Lists:
       - SkyBlock Mod List: 'mod-lists/skyblock-mod-list.md'
       - General Mod List: 'mod-lists/general-mod-list.md'
+  - Development:
+    - Getting started with Mod Development: 'development/getting-started.md'
+    
