@@ -28,9 +28,17 @@ SkyBlockAddons was one of the first SkyBlock mods when it first released in 2019
 - Download: https://sbewebsite.appspot.com/
 - Support: https://discord.gg/sbe
 
+### Danker's Skyblock Mod
+- Download: https://github.com/bowser0000/SkyblockMod/releases/
+- Support: https://discord.gg/QsEkNQS
+
 ### Dungeons Guide
 - Download: https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases
 - Support: https://discord.gg/vuGsXhY5Bv
+
+### Dungeon Rooms Mod
+- Download: https://github.com/Quantizr/DungeonRoomsMod/releases
+- Support: https://discord.gg/kr2M7WutgJ
 
 ### Fancy Warp Menu
 Fancy Warp Menu is a rewrite of SkyBlock Addons' fancy warp menu for improved performance and customization. It supports custom layouts and textures installed as resource packs.
@@ -53,6 +61,10 @@ Fancy Warp Menu is a rewrite of SkyBlock Addons' fancy warp menu for improved pe
 ### Partly Sane Skies
 - Download: https://github.com/PartlySaneStudios/partly-sane-skies/
 - Support: https://discord.gg/v4PU3WeH7z
+
+### Apec
+- Download: https://github.com/BananaFructa/Apec/releases
+- Support: https://discord.com/invite/YXrJzpY
 
 ## ChatTriggers Modules
 These require [ChatTriggers](https://www.chattriggers.com) to be installed first.
