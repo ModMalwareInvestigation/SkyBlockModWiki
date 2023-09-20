@@ -39,4 +39,6 @@ nav:
       - General Mod List: 'mod-lists/general-mod-list.md'
   - Development:
     - Getting started with Mod Development: 'development/getting-started.md'
+  - Other Resources:
+    - Website List: 'other-resources/website-list.md'  
     
