@@ -20,3 +20,8 @@ https://hypixel-skyblock.fandom.com/wiki/Hypixel_SkyBlock_Wiki
 Inventivetalent’s Hypixel Tools consist of an online SkyBlock calendar and timers for various in-game events.
 
 https://hypixel.inventivetalent.org/
+
+## Elite Farmers Website
+Home of the Farming Weight system with other useful tools/features/leaderboards geared towards farming in SkyBlock.
+
+https://elitebot.dev/
