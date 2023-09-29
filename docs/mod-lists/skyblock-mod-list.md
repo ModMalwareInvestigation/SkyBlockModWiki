@@ -5,7 +5,8 @@
 This is a quick reference list of many of the common mods for SkyBlock and their official download locations.
 Click on the "Main Page" link under a mod's name for more detailed information about that mod.
 
-## Mods
+## Mods for Minecraft 1.8.9
+These mods work only on Minecraft 1.8.9.
 
 ### NotEnoughUpdates
 - Download: https://github.com/NotEnoughUpdates/NotEnoughUpdates/releases
@@ -78,7 +79,7 @@ Fancy Warp Menu is a rewrite of SkyBlock Addons' fancy warp menu for improved pe
 - Download: https://github.com/symt/BazaarNotifier/releases
 - Support: https://discord.gg/wjpJSVSwvD
 
-## ChatTriggers Modules
+## ChatTriggers Modules for Minecraft 1.8.9
 These require [ChatTriggers](https://www.chattriggers.com) to be installed first.
 ChatTriggers is a mod loader that allows mods to be written in JavaScript instead of Java.
 
@@ -89,3 +90,20 @@ ChatTriggers is a mod loader that allows mods to be written in JavaScript instea
 ### SoopyV2
 - Download: https://github.com/Soopyboo32/SoopyV2
 - Support: https://discord.gg/dfSMq96RSN
+
+## Mods for Minecraft 1.20
+These mods work only on Minecraft 1.20.
+
+### Firmament
+!!! warning
+    This mod is in early development. Some features may be missing or unstable.
+
+- Download: https://github.com/romangraef/firmament/releases
+- Support: https://discord.gg/64pFP94AWA
+
+### DulkirMod-Fabric
+!!! warning
+    This mod is in early development. Some features may be missing or unstable.
+
+- Download: https://github.com/inglettronald/DulkirMod-fabric/releases
+- Support: https://discord.gg/WnJwrNZQSn
