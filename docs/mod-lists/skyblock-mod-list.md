@@ -9,6 +9,8 @@ Click on the "Main Page" link under a mod's name for more detailed information a
 These mods work only on Minecraft 1.8.9.
 
 ### NotEnoughUpdates
+Advanced item list and recipe viewer with nearly every SkyBlock item, custom GUIs/HUDs, useful waypoints and explanations that will improve your SkyBlock experience.
+
 - Download: https://github.com/NotEnoughUpdates/NotEnoughUpdates/releases
 - Support: https://discord.gg/moulberry
 
