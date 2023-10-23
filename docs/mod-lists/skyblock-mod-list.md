@@ -1,9 +1,9 @@
 # SkyBlock Mod List
 !!! note
-    This list is a work in progress so some mods may be missing and many mods do not yet have main pages.
+    This list is a work in progress so some mods may be missing.
 
 This is a quick reference list of many of the common mods for SkyBlock and their official download locations.
-Click on the "Main Page" link under a mod's name for more detailed information about that mod.
+Check out the [General Mod List](general-mod-list.md) for mods that are not specific to SkyBlock.
 
 ## Mods for Minecraft 1.8.9
 These mods work only on Minecraft 1.8.9.
