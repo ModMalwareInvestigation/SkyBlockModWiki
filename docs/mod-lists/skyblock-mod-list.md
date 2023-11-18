@@ -50,6 +50,8 @@ Fancy Warp Menu is a rewrite of SkyBlock Addons' fancy warp menu for improved pe
 - Support: https://discord.gg/tXFf9umfA9
 
 ### SkyHanni
+SkyHanni is filled with GUIs, extra chat messages, reminders, message hiders and entity highlighters. The majority of these features are centered on the Garden, Slayer, Bingo, Diana, and Rift.
+
 - Download: https://github.com/hannibal002/SkyHanni/releases
 - Support: https://discord.gg/8DXVN4BJz3
 
