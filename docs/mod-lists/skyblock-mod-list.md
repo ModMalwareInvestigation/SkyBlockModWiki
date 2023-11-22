@@ -92,6 +92,8 @@ ChatTriggers is a mod loader that allows mods to be written in JavaScript instea
 - Support: https://discord.gg/Uq5YzpaMsr
 
 ### SoopyV2
+!!! warning
+    This mod is no longer being maintained. Some features still work but new issues will not be fixed.
 - Download: https://github.com/Soopyboo32/SoopyV2
 - Support: https://discord.gg/dfSMq96RSN
 
