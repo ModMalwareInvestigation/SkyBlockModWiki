@@ -88,11 +88,14 @@ These require [ChatTriggers](https://www.chattriggers.com) to be installed first
 ChatTriggers is a mod loader that allows mods to be written in JavaScript instead of Java.
 
 ### BetterMap
-- Download: https://github.com/BetterMap/BetterMap/
+- Download: https://github.com/BetterMap/BetterMap/releases
+- Command: `/ct import BetterMap`
 - Support: https://discord.gg/Uq5YzpaMsr
 
 ### SoopyV2
-- Download: https://github.com/Soopyboo32/SoopyV2
+!!! warning
+    This mod is no longer being maintained. Some features still work but new issues will not be fixed.
+- Download: https://github.com/Soopyboo32/SoopyV2Forge/releases
 - Support: https://discord.gg/dfSMq96RSN
 
 ## Mods for Minecraft 1.20
