@@ -8,7 +8,7 @@ These are mods that are not SkyBlock-specific but are often used by SkyBlock pla
 Adds many visual fixes and improvements to Minecraft, provides support for shader packs and advanced texture pack features
 
 - Download: https://optifine.net/downloads
-    - Click "Show all versions" and scroll down to find 1.8.9
+  - Click "Show all versions" and scroll down to find 1.8.9
 - Support: https://discord.gg/optifine
 
 ### Patcher
@@ -65,3 +65,9 @@ Displays Hypixel player stats above players' heads
 
 - Download: https://sk1er.club/mods/level_head
 - Support: https://discord.gg/sk1er
+
+### CrashPatch
+Stop crashes from closing your game!
+
+- Download: https://github.com/Polyfrost/CrashPatch/releases/
+- Support: https://polyfrost.cc/discord

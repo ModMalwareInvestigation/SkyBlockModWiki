@@ -83,6 +83,10 @@ SkyHanni is filled with GUIs, extra chat messages, reminders, message hiders and
 - Download: https://github.com/symt/BazaarNotifier/releases
 - Support: https://discord.gg/wjpJSVSwvD
 
+### WaterSolver
+- Download: https://github.com/Desco1/WaterSolver
+- Support: https://github.com/Desco1/WaterSolver/issues
+
 ## ChatTriggers Modules for Minecraft 1.8.9
 These require [ChatTriggers](https://www.chattriggers.com) to be installed first.
 ChatTriggers is a mod loader that allows mods to be written in JavaScript instead of Java.
@@ -97,6 +101,12 @@ ChatTriggers is a mod loader that allows mods to be written in JavaScript instea
     This mod is no longer being maintained. Some features still work but new issues will not be fixed.
 - Download: https://github.com/Soopyboo32/SoopyV2Forge/releases
 - Support: https://discord.gg/dfSMq96RSN
+
+### ColeWeight
+
+- Download: https://www.chattriggers.com/modules/v/Coleweight
+- Command: `/ct import Coleweight`
+- Support: https://discord.gg/yj4P4FqHPA
 
 ## Mods for Minecraft 1.20
 These mods work only on Minecraft 1.20.
