@@ -72,7 +72,7 @@ SkyHanni is filled with GUIs, extra chat messages, reminders, message hiders and
 - Support: https://discord.com/invite/YXrJzpY
 
 ### Cowlection
-- Download: https://github.com/symt/BazaarNotifier/releases
+- Download: https://github.com/cow-mc/Cowlection/releases
 - Support: https://discord.gg/fU2tFPf
 
 ### SkyGuide
