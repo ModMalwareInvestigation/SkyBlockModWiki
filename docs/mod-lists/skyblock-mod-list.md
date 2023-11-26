@@ -31,6 +31,12 @@ SkyBlockAddons was one of the first SkyBlock mods when it first released in 2019
 - Download: https://sbewebsite.appspot.com/
 - Support: https://discord.gg/sbe
 
+### Skyblock Utils
+Skyblock Utils contains features aimed at improving the overall Kuudra experience with features such as accurate pricing for Kuudra related items, Party Info for Kuudra Party Finder, Waypoints in Kuudra, and more...
+
+- Download: https://github.com/mastermindgolem/SkyBlock-Utils/releases
+- Support: https://discord.gg/Ht5q3g9VyW
+
 ### Danker's Skyblock Mod
 - Download: https://github.com/bowser0000/SkyblockMod/releases/
 - Support: https://discord.gg/QsEkNQS
