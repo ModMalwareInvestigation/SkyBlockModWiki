@@ -108,6 +108,12 @@ ChatTriggers is a mod loader that allows mods to be written in JavaScript instea
 - Command: `/ct import Coleweight`
 - Support: https://discord.gg/yj4P4FqHPA
 
+### VolcAddons
+ChatTriggers module originally built for Kuudra but now includes various features that can help you in SkyBlock, especially on newer parts of the game.
+- Download: https://github.com/zhenga8533/VolcAddons/releases
+- Command `/ct import VolcAddons` (v2.7.0, outdated)
+- Support: https://discord.gg/ftxB4kG2tw
+
 ## Mods for Minecraft 1.20
 These mods work only on Minecraft 1.20.
 
