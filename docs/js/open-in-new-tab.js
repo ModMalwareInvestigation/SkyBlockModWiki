@@ -1,4 +1,4 @@
-(function (){
+document$.subscribe(function() {
     const IGNORED_PATHS = []
 
     for (const ignoredPath of IGNORED_PATHS) {
@@ -14,6 +14,4 @@
             link.target = "_blank";
         }
     }
-
-    console.debug(`[Open in New Tab] Changed external links to open in new tab.`);
-})();
+})
