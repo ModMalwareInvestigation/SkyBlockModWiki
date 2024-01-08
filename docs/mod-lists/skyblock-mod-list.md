@@ -81,6 +81,12 @@ Select your Minecraft version below to view compatible mods.
     ### SkyGuide
     - Download: https://modrinth.com/mod/skyguide/versions
     - Support: https://discord.gg/XtAuqsJWby
+
+    ### Skyblock Features (SBF)
+    Mod that adds features that are not commonly found or are paid in other mods but are very useful. Notably an Auction Flipper, highly accurate estimated item value, trash highlighting, glowing bestiary tracking, cooldown trackers, etc.
+    
+    - Download: https://github.com/MrFast-js/SkyblockFeatures/releases
+    - Support: https://discord.com/invite/MDTEAjbNw8
     
     ### BazaarNotifier
     - Download: https://github.com/symt/BazaarNotifier/releases
