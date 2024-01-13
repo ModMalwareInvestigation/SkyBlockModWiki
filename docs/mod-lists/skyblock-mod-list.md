@@ -128,3 +128,7 @@ Select your Minecraft version below to view compatible mods.
     
     - Download: https://github.com/inglettronald/DulkirMod-fabric/releases
     - Support: https://discord.gg/WnJwrNZQSn
+    
+    ### Skyblocker
+    - Download: https://github.com/SkyblockerMod/Skyblocker/releases
+    - Support: https://discord.com/invite/aNNJHQykck
