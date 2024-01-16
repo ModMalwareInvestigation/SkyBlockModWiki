@@ -15,3 +15,8 @@ https://discord.gg/farms
 A community dedicated to the monthly Bingo event which provides free and constant splashes, guides, a place to discuss strategy, and assist fellow Bingo Players.
 
 https://discord.gg/bingobrewers
+
+## Skyblock Maniacs
+A Hypixel Skyblock based community and service Discord offering numerous carry services for all aspects of the game including dungeons, slayers, and kuudra.
+
+https://discord.gg/sbm
