@@ -42,12 +42,18 @@ Select your Minecraft version below to view compatible mods.
     
     - Download: https://sk1er.club/mods/text_overflow_scroll
     - Support: https://discord.gg/sk1er
+
+    ### Chatting
+    Adds extremely customizable utilities such as chat tabs, screenshotting messages, and message copying
     
-    ### Sk1er Old Animations
-    Adds Minecraft 1.7 animations to 1.8.9
+    - Download: https://modrinth.com/mod/chatting
+    - Support: https://polyfrost.org/discord
     
-    - Download: https://sk1er.club/beta
-    - Support: https://discord.gg/sk1er
+    ### OverflowAnimationsV2
+    Adds 1.7 and modern Minecraft animations to 1.8.9
+    
+    - Download: https://modrinth.com/mod/animations
+    - Support: https://polyfrost.org/discord
     
     ### ChatTriggers
     Adds support for Minecraft mods written in Javascript
@@ -76,8 +82,8 @@ Select your Minecraft version below to view compatible mods.
     ### CrashPatch
     Stop crashes from closing your game!
     
-    - Download: https://github.com/Polyfrost/CrashPatch/releases/
-    - Support: https://polyfrost.cc/discord
+    - Download: https://modrinth.com/mod/crashpatch
+    - Support: https://polyfrost.org/discord
 
 === "1.20.x"
 
