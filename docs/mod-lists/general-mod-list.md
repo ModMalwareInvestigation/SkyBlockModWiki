@@ -54,6 +54,18 @@ Select your Minecraft version below to view compatible mods.
     
     - Download: https://modrinth.com/mod/animations
     - Support: https://polyfrost.org/discord
+
+    ### OverflowAnimationsV2
+    An updated and mostly rewritten version of Sk1er's Old Animations mod. Has complete 1:1 parity with 1.7 animations, fixes most bugs and compatibility issues (including block-hit banning users from MineMenClub), and includes the custom animations feature from Dulkir and more modern version animations.
+    
+    - Download: https://modrinth.com/mod/animations
+    - Support: https://polyfrost.org/discord
+
+    ### Sk1er Old Animations
+    The "original" version of OverflowAnimations, purely a 1.7 animations mod.
+
+    - Download: https://sk1er.club/beta
+    - Support: https://discord.gg/sk1er
     
     ### ChatTriggers
     Adds support for Minecraft mods written in Javascript
