@@ -61,6 +61,11 @@ nav:
       - Events: 'development/events.md'
       - Creating your first command: 'development/commands.md'
       - Screens: 'development/screens.md'
+      - Mixins: 
+        - Overview: 'development/mixins.md'
+        - Accessors: 'development/mixins/accessors.md'
+        - Adding fields and methods: 'development/mixins/adding-fields.md'
+        - Simple Injects: 'development/mixins/simple-injects.md'
   - Tools:
       - Website List: 'tools/website-list.md'
       - Discord Bot List: 'tools/discord-bot-list.md'
