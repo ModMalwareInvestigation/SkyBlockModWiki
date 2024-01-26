@@ -50,19 +50,13 @@ Select your Minecraft version below to view compatible mods.
     - Support: https://polyfrost.org/discord
     
     ### OverflowAnimationsV2
-    Adds 1.7 and modern Minecraft animations to 1.8.9
-    
-    - Download: https://modrinth.com/mod/animations
-    - Support: https://polyfrost.org/discord
-
-    ### OverflowAnimationsV2
-    An updated and mostly rewritten version of Sk1er's Old Animations mod. Has complete 1:1 parity with 1.7 animations, fixes most bugs and compatibility issues (including block-hit banning users from MineMenClub), and includes the custom animations feature from Dulkir and more modern version animations.
+    A rewritten version of Sk1er's Old Animations mod with modern and more accurate animations, bug fixes, and the custom animations feature from DulkirMod.
     
     - Download: https://modrinth.com/mod/animations
     - Support: https://polyfrost.org/discord
 
     ### Sk1er Old Animations
-    The "original" version of OverflowAnimations, purely a 1.7 animations mod.
+    Adds Minecraft 1.7 animations to 1.8.9
 
     - Download: https://sk1er.club/beta
     - Support: https://discord.gg/sk1er
