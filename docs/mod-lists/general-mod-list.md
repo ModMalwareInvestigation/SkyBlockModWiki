@@ -11,7 +11,7 @@ Select your Minecraft version below to view compatible mods.
 
     ## 1.8.9 Mods
 
-    ### Optifine
+    ### OptiFine
     Adds many visual fixes and improvements to Minecraft, provides support for shader packs and advanced texture pack features
     
     - Download: https://optifine.net/downloads
@@ -79,11 +79,17 @@ Select your Minecraft version below to view compatible mods.
     - Download: https://github.com/Polyfrost/CrashPatch/releases/
     - Support: https://polyfrost.cc/discord
 
+    ### QuickQuit
+    Let's you close Minecraft during the launch loading screen
+
+    - Download: https://modrinth.com/mod/quickquit/versions
+    - Support: https://discord.gg/rejfv9kFJj
+
 === "1.20.x"
 
     ## 1.20.x Mods
 
-    ### Optifine
+    ### OptiFine
     Adds many visual fixes and improvements to Minecraft, provides support for shader packs and advanced texture pack features
 
     - Download: https://optifine.net/downloads
