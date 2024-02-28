@@ -89,6 +89,11 @@ Select your Minecraft version below to view compatible mods.
     ### WaterSolver
     - Download: https://github.com/Desco1/WaterSolver
     - Support: https://github.com/Desco1/WaterSolver/issues
+
+    ### Bingo Brewers
+    Bingo Brewers is a mod for Bingo, designed to integrate with the Bingo Brewers discord server but also has standalone features. The mod is currently under development.
+
+    - Download: https://github.com/IndigoPolecat/BingoBrewers
     
     ## 1.8.9 ChatTriggers Modules
     These require [ChatTriggers](https://www.chattriggers.com) to be installed first.
