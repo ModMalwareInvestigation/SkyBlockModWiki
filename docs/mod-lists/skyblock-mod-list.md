@@ -89,6 +89,12 @@ Select your Minecraft version below to view compatible mods.
     ### WaterSolver
     - Download: https://github.com/Desco1/WaterSolver
     - Support: https://github.com/Desco1/WaterSolver/issues
+
+    ### DredMod
+    DredMod is a waypoint mod for the Crystal Hollows that allows you to easily navigate long paths. It allows you to create your own paths, use a small preinstalled set, or convert paths from other mods via the tools page on the website.
+    
+    - Download: https://www.dred.dev/download
+    - Support: https://discord.gg/ZDxzzf9
     
     ## 1.8.9 ChatTriggers Modules
     These require [ChatTriggers](https://www.chattriggers.com) to be installed first.
