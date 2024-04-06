@@ -130,5 +130,5 @@ Select your Minecraft version below to view compatible mods.
     - Support: https://discord.gg/WnJwrNZQSn
     
     ### Skyblocker
-    - Download: https://github.com/SkyblockerMod/Skyblocker/releases
+    - Download: https://modrinth.com/mod/skyblocker-liap/versions
     - Support: https://discord.com/invite/aNNJHQykck
