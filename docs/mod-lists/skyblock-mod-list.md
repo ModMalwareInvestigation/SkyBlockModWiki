@@ -87,7 +87,7 @@ Select your Minecraft version below to view compatible mods.
     - Support: https://discord.gg/wjpJSVSwvD
     
     ### WaterSolver
-    - Download: https://github.com/Desco1/WaterSolver
+    - Download: https://github.com/Desco1/WaterSolver/releases
     - Support: https://github.com/Desco1/WaterSolver/issues
 
     ### DredMod
