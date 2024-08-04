@@ -92,8 +92,13 @@ Select your Minecraft version below to view compatible mods.
 
     ### Bingo Brewers
     Bingo Brewers is a mod for Bingo, designed to integrate with the Bingo Brewers discord server but also has standalone features. The mod is currently under development.
-
     - Download: https://github.com/IndigoPolecat/BingoBrewers/releases
+
+    ### DredMod
+    DredMod is a waypoint mod for the Crystal Hollows that allows you to easily navigate long paths. It allows you to create your own paths, use a small preinstalled set, or convert paths from other mods via the tools page on the website.
+    
+    - Download: https://www.dred.dev/download
+    - Support: https://discord.gg/ZDxzzf9
     
     ## 1.8.9 ChatTriggers Modules
     These require [ChatTriggers](https://www.chattriggers.com) to be installed first.
@@ -115,6 +120,12 @@ Select your Minecraft version below to view compatible mods.
     - Download: https://www.chattriggers.com/modules/v/Coleweight
     - Command: `/ct import Coleweight`
     - Support: https://discord.gg/yj4P4FqHPA
+    
+    ### VolcAddons
+    ChatTriggers module originally built for Kuudra but now includes various features that can help you in SkyBlock, especially on newer parts of the game.
+    - Download: https://zhenga8533.github.io/VolcAddons/
+    - Command `/ct import VolcAddons` (v2.7.0, outdated)
+    - Support: https://discord.gg/ftxB4kG2tw
 
 === "1.20.x"
     
@@ -135,5 +146,5 @@ Select your Minecraft version below to view compatible mods.
     - Support: https://discord.gg/WnJwrNZQSn
     
     ### Skyblocker
-    - Download: https://github.com/SkyblockerMod/Skyblocker/releases
+    - Download: https://modrinth.com/mod/skyblocker-liap/versions
     - Support: https://discord.com/invite/aNNJHQykck
