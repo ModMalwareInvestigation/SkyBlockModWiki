@@ -25,3 +25,8 @@ https://hypixel.inventivetalent.org/
 Home of the Farming Weight system with other useful tools/features/leaderboards geared towards farming in SkyBlock.
 
 https://elitebot.dev/
+
+## Waypoint Format Convertor
+A tool for converting waypoint paths, such as for the Crystal Hollows, between the DredMod, Skytils, and ColeWeight formats.
+
+https://www.dred.dev/tools
