@@ -126,6 +126,11 @@ Select your Minecraft version below to view compatible mods.
     - Download: https://zhenga8533.github.io/VolcAddons/
     - Command `/ct import VolcAddons` (v2.7.0, outdated)
     - Support: https://discord.gg/ftxB4kG2tw
+    
+    ### Skyblock Utils
+    Skyblock Utils contains features aimed at improving the overall Kuudra experience with features such as accurate pricing for Kuudra related items, Party Info for Kuudra Party Finder, Waypoints in Kuudra, and more...
+    - Download: https://github.com/mastermindgolem/SkyBlock-Utils/releases
+    - Support: https://discord.gg/Ht5q3g9VyW
 
 === "1.20.x"
     
