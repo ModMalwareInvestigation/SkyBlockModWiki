@@ -149,7 +149,15 @@ Select your Minecraft version below to view compatible mods.
     
     - Download: https://github.com/inglettronald/DulkirMod-fabric/releases
     - Support: https://discord.gg/WnJwrNZQSn
+
+    ### SkyblockImprovements
+    !!! warning
+        This mod is in early development. Some features may be missing or unstable.
+
+    - Download: https://modrinth.com/mod/skyblockimprovements/versions
+    - Support: https://discord.com/invite/dyAUSNyhBh
     
     ### Skyblocker
     - Download: https://modrinth.com/mod/skyblocker-liap/versions
     - Support: https://discord.com/invite/aNNJHQykck
+    
