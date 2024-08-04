@@ -110,6 +110,12 @@ Select your Minecraft version below to view compatible mods.
     - Download: https://www.chattriggers.com/modules/v/Coleweight
     - Command: `/ct import Coleweight`
     - Support: https://discord.gg/yj4P4FqHPA
+    
+    ### VolcAddons
+    ChatTriggers module originally built for Kuudra but now includes various features that can help you in SkyBlock, especially on newer parts of the game.
+    - Download: https://zhenga8533.github.io/VolcAddons/
+    - Command `/ct import VolcAddons` (v2.7.0, outdated)
+    - Support: https://discord.gg/ftxB4kG2tw
 
 === "1.20.x"
     
