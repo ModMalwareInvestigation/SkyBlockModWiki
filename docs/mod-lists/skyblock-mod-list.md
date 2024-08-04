@@ -90,6 +90,10 @@ Select your Minecraft version below to view compatible mods.
     - Download: https://github.com/Desco1/WaterSolver
     - Support: https://github.com/Desco1/WaterSolver/issues
 
+    ### Bingo Brewers
+    Bingo Brewers is a mod for Bingo, designed to integrate with the Bingo Brewers discord server but also has standalone features. The mod is currently under development.
+    - Download: https://github.com/IndigoPolecat/BingoBrewers/releases
+
     ### DredMod
     DredMod is a waypoint mod for the Crystal Hollows that allows you to easily navigate long paths. It allows you to create your own paths, use a small preinstalled set, or convert paths from other mods via the tools page on the website.
     
