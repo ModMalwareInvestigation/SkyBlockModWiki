@@ -160,4 +160,12 @@ Select your Minecraft version below to view compatible mods.
     ### Skyblocker
     - Download: https://modrinth.com/mod/skyblocker-liap/versions
     - Support: https://discord.com/invite/aNNJHQykck
+
+    ### CustomScoreboard
+    SkyHanni's CustomScoreboard for Modern SkyBlock.
+    !!! warning
+        This mod is in early development. Some features may be missing or unstable.
+        
+    - Download: https://modrinth.com/mod/skyblock-custom-scoreboard
+    - Support: https://discord.gg/pUBzTq9akF
     
