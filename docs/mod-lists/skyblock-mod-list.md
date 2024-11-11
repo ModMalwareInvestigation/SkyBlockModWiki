@@ -168,5 +168,5 @@ Select your Minecraft version below to view compatible mods.
     SkyHanni's CustomScoreboard for Modern SkyBlock.
         
     - Download: https://modrinth.com/mod/skyblock-custom-scoreboard
-    - Support: https://discord.gg/pUBzTq9akF
+    - Support: https://discord.gg/FsRc2GUwZR
     
