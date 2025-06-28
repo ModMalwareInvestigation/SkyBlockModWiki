@@ -165,28 +165,28 @@ Select your Minecraft version below to view compatible mods.
     A Profile Viewer for Modern Minecraft, see [here](https://github.com/meowdding/skyblock-pv/blob/master/Comparison.md) how it compares to other PV's.
 
     - Download: https://modrinth.com/mod/skyblock-profile-viewer
-    - Support: https://discord.gg/FsRc2GUwZR
+    - Support: https://meowdd.ing/discord
 
     ### CustomScoreboard
     SkyHanni's CustomScoreboard for Modern SkyBlock. While SkyHanni does exist on modern, this mod adds way more than SkyHanni's Scoreboard, see [here](skyblock-mod-list.md).
         
     - Download: https://modrinth.com/mod/skyblock-custom-scoreboard
-    - Support: https://discord.gg/FsRc2GUwZR
+    - Support: https://meowdd.ing/discord
 
     ### SkyCubed
     Adds RPG Style UI Elements to your UI.
 
     - Download: https://modrinth.com/mod/skycubed
-    - Support: https://discord.gg/FsRc2GUwZR
+    - Support: https://meowdd.ing/discord
 
     ### SkyOcean
     Adds qol features in a non intrusive way.
 
     - Download: https://modrinth.com/mod/skyocean
-    - Support: https://discord.gg/FsRc2GUwZR
+    - Support: https://meowdd.ing/discord
 
     ### SkyBlock RPC
     A Discord Rich Presence Integration for Modern Hypixel SkyBlock.
 
     - Download: https://modrinth.com/mod/skyblock-rpc
-    - Support: https://discord.gg/FsRc2GUwZR
+    - Support: https://meowdd.ing/discord
