@@ -100,4 +100,4 @@ Select your Minecraft version below to view compatible mods.
     Reward Claim allows you to claim your Hypixel rewards in-game rather than on their website.
 
     - Download: https://modrinth.com/mod/reward-claim
-    - Support: TODO
+    - Support: https://meowdd.ing/discord
