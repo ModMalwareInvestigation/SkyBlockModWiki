@@ -132,33 +132,30 @@ Select your Minecraft version below to view compatible mods.
     - Download: https://github.com/mastermindgolem/SkyBlock-Utils/releases
     - Support: https://discord.gg/Ht5q3g9VyW
 
-=== "1.20.x"
+=== "1.21.5"
     
-    ## 1.20.x Mods    
+    ## 1.21.5 Mods    
+
+    ### Aaron's Mod
+    - Download: https://modrinth.com/mod/aaron-mod
+    - Support: https://discord.com/invite/CQH9Je8qJ9
 
     ### Firmament
     !!! warning
         This mod is in early development. Some features may be missing or unstable.
     
-    - Download: https://github.com/romangraef/firmament/releases
+    - Download: https://modrinth.com/mod/firmament
     - Support: https://discord.gg/64pFP94AWA
     
     ### DulkirMod-Fabric
     !!! warning
         This mod is in early development. Some features may be missing or unstable.
     
-    - Download: https://github.com/inglettronald/DulkirMod-fabric/releases
+    - Download: https://modrinth.com/mod/dulkirmod-fabric
     - Support: https://discord.gg/WnJwrNZQSn
-
-    ### SkyblockImprovements
-    !!! warning
-        This mod is in early development. Some features may be missing or unstable.
-
-    - Download: https://modrinth.com/mod/skyblockimprovements/versions
-    - Support: https://discord.com/invite/dyAUSNyhBh
     
     ### Skyblocker
-    - Download: https://modrinth.com/mod/skyblocker-liap/versions
+    - Download: https://modrinth.com/mod/skyblocker-liap
     - Support: https://discord.com/invite/aNNJHQykck
 
     ### SkyBlock Profile Viewer
@@ -167,11 +164,9 @@ Select your Minecraft version below to view compatible mods.
     - Download: https://modrinth.com/mod/skyblock-profile-viewer
     - Support: https://meowdd.ing/discord
 
-    ### CustomScoreboard
-    SkyHanni's CustomScoreboard for Modern SkyBlock. While SkyHanni does exist on modern, this mod adds way more than SkyHanni's Scoreboard, see [here](skyblock-mod-list.md).
-        
-    - Download: https://modrinth.com/mod/skyblock-custom-scoreboard
-    - Support: https://meowdd.ing/discord
+    ### SkyHanni
+    - Download: https://modrinth.com/mod/skyhanni
+    - Support: https://discord.gg/8DXVN4BJz3
 
     ### SkyCubed
     Adds RPG Style UI Elements to your UI.
@@ -180,7 +175,7 @@ Select your Minecraft version below to view compatible mods.
     - Support: https://meowdd.ing/discord
 
     ### SkyOcean
-    Adds qol features in a non intrusive way.
+    Adds QoL features in a non intrusive way.
 
     - Download: https://modrinth.com/mod/skyocean
     - Support: https://meowdd.ing/discord
