@@ -168,7 +168,7 @@ Select your Minecraft version below to view compatible mods.
     - Support: https://meowdd.ing/discord
 
     ### CustomScoreboard
-    SkyHanni's CustomScoreboard for Modern SkyBlock. While SkyHanni does exist on modern, this mod adds way more than SkyHanni's Scoreboard, see [here](skyblock-mod-list.md).
+    SkyHanni's CustomScoreboard for Modern SkyBlock. While SkyHanni does exist on modern, this mod adds way more than SkyHanni's Scoreboard, see [here](https://github.com/meowdding/CustomScoreboard#skyhanni-vs-custom-scoreboard).
         
     - Download: https://modrinth.com/mod/skyblock-custom-scoreboard
     - Support: https://meowdd.ing/discord
